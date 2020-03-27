@@ -10,9 +10,10 @@ https://roman-numerals-detector.herokuapp.com/
 ## Authors
 
 Contributors:
-Tatiana Davila Albis
-Jose Luis Ramos
-Jefferson Ospino
+
+* Tatiana Davila Albis
+* Jose Luis Ramos
+* Jefferson Ospino
 
 
 ## License
