@@ -12,8 +12,8 @@ https://roman-numerals-detector.herokuapp.com/
 Contributors:
 
 * Tatiana Davila Albis
-* Jose Luis Ramos
-* Jefferson Ospino
+* Jose Luis Ramos [dogorblack@gmail.com]
+* Jefferson Ospino [jefferson.ospino@hotmail.com]
 
 
 ## License
